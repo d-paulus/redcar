@@ -3,13 +3,6 @@
 LOCAL CHANGE HERE
 CHANGE FROM GITHUB
 
-
-testesttest
-
-...Some change here...
-
-Workshop material
-
 Project Organization
 ------------
 
